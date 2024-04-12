@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on: 5th and final CI project
+- 🌱 I’m currently learning: the Django web framework
+- 💬 Ask me about: my CI projects
+- 😄 Pronouns: She / Her
+- ⚡ Fun fact: See below
+
+Current PS game: Celeste Platform Game
+
+![playstation_icon](https://github.com/KSDunne/KSDunne/assets/77549699/7d13bc23-facc-468b-abb1-2c481396d231)
+
 <!--
 **KSDunne/KSDunne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
