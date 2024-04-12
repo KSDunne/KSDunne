@@ -6,7 +6,7 @@
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: See below
 
-Current PS game: Celeste Platform Game
+Current video game: Celeste Platform Game on PS
 
 ![playstation_icon](https://github.com/KSDunne/KSDunne/assets/77549699/7d13bc23-facc-468b-abb1-2c481396d231)
 
