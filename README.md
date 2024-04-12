@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: 5th and final CI project
-- 🌱 I’m currently learning: the Django web framework
-- 💬 Ask me about: my CI projects
+- 🔭 I’m currently working on: My 5th and final CI project
+- 🌱 I’m currently learning: The Django web framework
+- 💬 Ask me about: My CI projects
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: See below
 
