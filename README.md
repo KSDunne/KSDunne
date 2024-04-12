@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Katie 👋
+
+Here are some fun facts before we get to work:
 
 - 🔭 I’m currently working on: My 5th and final CI project
 - 🌱 I’m currently learning: The Django web framework
