@@ -6,7 +6,7 @@ Here are some fun facts before we get to work:
 - 🌱 I’m currently learning: The Django web framework
 - 💬 Ask me about: My CI projects
 - 😄 Pronouns: She / Her
-- ⚡ Current video game: Celeste Platform Game on PS
+- ⚡ Current video game: Celeste - Platform Game on PS
 
 ![playstation_icon](https://github.com/KSDunne/KSDunne/assets/77549699/7d13bc23-facc-468b-abb1-2c481396d231)
 
